@@ -1,0 +1,6 @@
+
+# SQL Project for Data Analysis using Oracle Database
+
+The project’s Agenda involves Analyzing the data using SQL on the Oracle Database Software. We first download the Oracle Database 21c edition from the official Oracle website and understand the problem. Then a Password is set up for the “SYSTEM” username during the setup of Oracle Database 21c software. Then SQL Plus is used to connect to Oracle Database using the same credentials of the Oracle Database 21c. 
+
+Further, a Database connection is established from SQL Developer to the Oracle Database using the “SYSTEM” username and the password. Then tables are created in the database followed by data insertion into tables and exploration, i.e., noticing relationships between tables, walking through the columns, and seeing comments. Records are displayed in an ordered manner, handling NULL values, and selecting records based on patterns like Wildcard, Operators, etc. Then working on Data Manipulation commands(DML) for Data Analysis. Then taking Backup of the Table where migration is going on and use COMMIT and ROLLBACK commands. Then listing down distinct records, further renaming columns, and finally, listing down employee details based on the complex nested conditions.
